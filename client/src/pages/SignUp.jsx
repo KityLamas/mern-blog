@@ -97,6 +97,7 @@ function SigUp() {
                 </>
               ) : 'Sign Up' }
             </Button>
+            <OAuth/>
           </form>
           <div className="">
             <span> Have an account?</span>
